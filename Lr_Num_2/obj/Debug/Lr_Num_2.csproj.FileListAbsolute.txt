@@ -1,0 +1,72 @@
+D:\Мои проекты\Lr_Num_2\Lr_Num_2\bin\Debug\Lr_Num_2.exe.config
+D:\Мои проекты\Lr_Num_2\Lr_Num_2\bin\Debug\Lr_Num_2.exe
+D:\Мои проекты\Lr_Num_2\Lr_Num_2\bin\Debug\Lr_Num_2.pdb
+D:\Мои проекты\Lr_Num_2\Lr_Num_2\obj\Debug\Lr_Num_2.csproj.AssemblyReference.cache
+D:\Мои проекты\Lr_Num_2\Lr_Num_2\obj\Debug\Lr_Num_2.csproj.SuggestedBindingRedirects.cache
+D:\Мои проекты\Lr_Num_2\Lr_Num_2\obj\Debug\MainWindow.g.cs
+D:\Мои проекты\Lr_Num_2\Lr_Num_2\obj\Debug\Resourses\Windowes\WindowAdd.g.cs
+D:\Мои проекты\Lr_Num_2\Lr_Num_2\obj\Debug\App.g.cs
+D:\Мои проекты\Lr_Num_2\Lr_Num_2\obj\Debug\Lr_Num_2_MarkupCompile.cache
+D:\Мои проекты\Lr_Num_2\Lr_Num_2\obj\Debug\Lr_Num_2_MarkupCompile.lref
+D:\Мои проекты\Lr_Num_2\Lr_Num_2\obj\Debug\MainWindow.baml
+D:\Мои проекты\Lr_Num_2\Lr_Num_2\obj\Debug\Resourses\Windowes\WindowAdd.baml
+D:\Мои проекты\Lr_Num_2\Lr_Num_2\obj\Debug\Lr_Num_2.g.resources
+D:\Мои проекты\Lr_Num_2\Lr_Num_2\obj\Debug\Lr_Num_2.Properties.Resources.resources
+D:\Мои проекты\Lr_Num_2\Lr_Num_2\obj\Debug\Lr_Num_2.csproj.GenerateResource.cache
+D:\Мои проекты\Lr_Num_2\Lr_Num_2\obj\Debug\Lr_Num_2.csproj.CoreCompileInputs.cache
+D:\Мои проекты\Lr_Num_2\Lr_Num_2\obj\Debug\Lr_Num_2.exe
+D:\Мои проекты\Lr_Num_2\Lr_Num_2\obj\Debug\Lr_Num_2.pdb
+D:\Lr_Num_2\Lr_Num_2\obj\Debug\Lr_Num_2.csproj.AssemblyReference.cache
+D:\Lr_Num_2\Lr_Num_2\obj\Debug\MainWindow.g.cs
+D:\Lr_Num_2\Lr_Num_2\obj\Debug\Resourses\Pages\Table_about.g.cs
+D:\Lr_Num_2\Lr_Num_2\obj\Debug\Resourses\Windowes\WindowAdd.g.cs
+D:\Lr_Num_2\Lr_Num_2\obj\Debug\App.g.cs
+D:\Lr_Num_2\Lr_Num_2\obj\Debug\Lr_Num_2_Content.g.cs
+D:\Lr_Num_2\Lr_Num_2\obj\Debug\Lr_Num_2_MarkupCompile.cache
+D:\Lr_Num_2\Lr_Num_2\obj\Debug\Lr_Num_2_MarkupCompile.lref
+D:\Lr_Num_2\Lr_Num_2\obj\Debug\Lr_Num_2.exe
+D:\Lr_Num_2\Lr_Num_2\obj\Debug\Lr_Num_2.pdb
+D:\Lr_Num_2\Lr_Num_2\bin\Debug\Lr_Num_2.exe.config
+D:\Lr_Num_2\Lr_Num_2\bin\Debug\Lr_Num_2.exe
+D:\Lr_Num_2\Lr_Num_2\bin\Debug\Lr_Num_2.pdb
+D:\Lr_Num_2\Lr_Num_2\bin\Debug\EntityFramework.dll
+D:\Lr_Num_2\Lr_Num_2\bin\Debug\EntityFramework.SqlServer.dll
+D:\Lr_Num_2\Lr_Num_2\bin\Debug\EntityFramework.xml
+D:\Lr_Num_2\Lr_Num_2\bin\Debug\EntityFramework.SqlServer.xml
+D:\Lr_Num_2\Lr_Num_2\bin\Debug\ru\EntityFramework.resources.dll
+D:\Lr_Num_2\Lr_Num_2\obj\Debug\MainWindow.baml
+D:\Lr_Num_2\Lr_Num_2\obj\Debug\Resourses\Pages\Table_about.baml
+D:\Lr_Num_2\Lr_Num_2\obj\Debug\Resourses\Windowes\WindowAdd.baml
+D:\Lr_Num_2\Lr_Num_2\obj\Debug\Lr_Num_2.g.resources
+D:\Lr_Num_2\Lr_Num_2\obj\Debug\Lr_Num_2.Properties.Resources.resources
+D:\Lr_Num_2\Lr_Num_2\obj\Debug\Lr_Num_2.csproj.GenerateResource.cache
+D:\Lr_Num_2\Lr_Num_2\obj\Debug\Lr_Num_2.csproj.CoreCompileInputs.cache
+D:\Lr_Num_2\Lr_Num_2\obj\Debug\Lr_Num_2.csproj.CopyComplete
+F:\Lr_Num_2\Lr_Num_2\bin\Debug\Lr_Num_2.exe.config
+F:\Lr_Num_2\Lr_Num_2\bin\Debug\Lr_Num_2.exe
+F:\Lr_Num_2\Lr_Num_2\bin\Debug\Lr_Num_2.pdb
+F:\Lr_Num_2\Lr_Num_2\bin\Debug\EntityFramework.dll
+F:\Lr_Num_2\Lr_Num_2\bin\Debug\EntityFramework.SqlServer.dll
+F:\Lr_Num_2\Lr_Num_2\bin\Debug\EntityFramework.xml
+F:\Lr_Num_2\Lr_Num_2\bin\Debug\EntityFramework.SqlServer.xml
+F:\Lr_Num_2\Lr_Num_2\bin\Debug\ru\EntityFramework.resources.dll
+F:\Lr_Num_2\Lr_Num_2\obj\Debug\Lr_Num_2.csproj.AssemblyReference.cache
+F:\Lr_Num_2\Lr_Num_2\obj\Debug\Lr_Num_2.csproj.SuggestedBindingRedirects.cache
+F:\Lr_Num_2\Lr_Num_2\obj\Debug\MainWindow.g.cs
+F:\Lr_Num_2\Lr_Num_2\obj\Debug\Resourses\Pages\PageAdd.g.cs
+F:\Lr_Num_2\Lr_Num_2\obj\Debug\Resourses\Pages\Table_about.g.cs
+F:\Lr_Num_2\Lr_Num_2\obj\Debug\App.g.cs
+F:\Lr_Num_2\Lr_Num_2\obj\Debug\Lr_Num_2_Content.g.cs
+F:\Lr_Num_2\Lr_Num_2\obj\Debug\Lr_Num_2_MarkupCompile.cache
+F:\Lr_Num_2\Lr_Num_2\obj\Debug\Lr_Num_2_MarkupCompile.lref
+F:\Lr_Num_2\Lr_Num_2\obj\Debug\App.baml
+F:\Lr_Num_2\Lr_Num_2\obj\Debug\MainWindow.baml
+F:\Lr_Num_2\Lr_Num_2\obj\Debug\Resourses\Pages\PageAdd.baml
+F:\Lr_Num_2\Lr_Num_2\obj\Debug\Resourses\Pages\Table_about.baml
+F:\Lr_Num_2\Lr_Num_2\obj\Debug\Lr_Num_2.g.resources
+F:\Lr_Num_2\Lr_Num_2\obj\Debug\Lr_Num_2.Properties.Resources.resources
+F:\Lr_Num_2\Lr_Num_2\obj\Debug\Lr_Num_2.csproj.GenerateResource.cache
+F:\Lr_Num_2\Lr_Num_2\obj\Debug\Lr_Num_2.csproj.CoreCompileInputs.cache
+F:\Lr_Num_2\Lr_Num_2\obj\Debug\Lr_Num_2.csproj.CopyComplete
+F:\Lr_Num_2\Lr_Num_2\obj\Debug\Lr_Num_2.exe
+F:\Lr_Num_2\Lr_Num_2\obj\Debug\Lr_Num_2.pdb
