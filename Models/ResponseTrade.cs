@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Policy;
 using System.Web;
+using TradeWebAPI.DataBase;
 
 
 namespace TradeWebAPI.Models
@@ -19,6 +21,7 @@ namespace TradeWebAPI.Models
             ProductCost = trade.ProductCost;
             ProductDescription = trade.ProductDescription;
             ProductDiscountAmount = trade.ProductDiscountAmount;
+            ProductPhoto = trade.ProductPhoto;
         }
 
 
@@ -33,6 +36,7 @@ namespace TradeWebAPI.Models
         public decimal ProductCost { get; set; }
         public string ProductDescription { get; set; }
         public int ProductDiscountAmount { get; set; }
+        public byte[] ProductPhoto { get; set; }
 
     }
 }
