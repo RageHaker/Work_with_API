@@ -98,3 +98,5 @@ D:\TradeWebAPI\obj\Debug\TradeWebAPI.csproj.CoreCompileInputs.cache
 D:\TradeWebAPI\obj\Debug\TradeWebAPI.csproj.CopyComplete
 D:\TradeWebAPI\obj\Debug\TradeWebAPI.dll
 D:\TradeWebAPI\obj\Debug\TradeWebAPI.pdb
+C:\Users\Danila\Documents\GitHub\Work_with_API\obj\Debug\TradeWebAPI.csproj.AssemblyReference.cache
+C:\Users\Danila\Documents\GitHub\Work_with_API\obj\Debug\TradeWebAPI.csproj.CoreCompileInputs.cache
