@@ -1,6 +1,5 @@
 # Work_with_API
- static void Main(string[] args)
-        {
+
             Calculations calc = new Calculations();
             TimeSpan[] interval = new TimeSpan[] { new TimeSpan(10, 0, 0), 
                                                    new TimeSpan(11, 0, 0), 
@@ -14,4 +13,4 @@
                 Console.WriteLine(s);
             }
             Console.ReadLine();
-        }
+        
